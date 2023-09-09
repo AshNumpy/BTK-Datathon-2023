@@ -15,9 +15,9 @@ Bu yarışmanın temel amacı, bir alışveriş firmasının müşterilerinin ha
 - Sunuma ayrıca `./Presentation/Sunum.pdf` kısmından da ulaşabilirsiniz.
 
 <p align="center">
-<a href="https://gamma.app/public/Original-BTK-ah8u9n3rgb5h95c" target="_blank">
-<img src="./Presentation/image-1.png" width=600>
-</a>
+  <a href="https://gamma.app/public/Original-BTK-ah8u9n3rgb5h95c" target="_blank">
+    <img src="./Presentation/image-1.png" width=600>
+  </a>
 </p>
 
 
@@ -77,9 +77,9 @@ The main goal of this competition is to predict which classes customers of a sho
 - You can reach the presentation at `./Presentation/Sunum.pdf`
 
 <p align="center">
-<a href="https://gamma.app/public/Original-BTK-ah8u9n3rgb5h95c">
-<img src="./Presentation/image-1.png" width=600>
-</a>
+  <a href="https://gamma.app/public/Original-BTK-ah8u9n3rgb5h95c" target="_blank">
+    <img src="./Presentation/image-1.png" width=600>
+  </a>
 </p>
 
 ## Data Set
